@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+body{
+	
+	
+}
+
+
+ table {
+ border:none;border-bottom:0px solid #CCC;
+ }
+  td {
+border-right:0; border-left:0;
+ }
+a {
+	text-decoration-line: none;
+}
+a:link {
+  color : gray;
+}
+a:visited {
+  color : gray;
+}
+a:hover {
+  color : skyblue;
+}
+a:active {
+  color : red;
+}
+
+.MenuVar {text-align:center;}
+
+a {
+	display:inline-block;
+	padding:0 4% 0 4%;
+	
+}
